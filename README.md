@@ -8,7 +8,7 @@ This repository offers a synthetic point cloud dataset with ground truth skeleto
 
 #### 💾 Downloading
 
-You can download the data by following this <a href="[https://www.dropbox.com/sh/dkp3sgw6wpdiaam/AAAIRy8liOpy-y9jM6KCiNpNa?dl=0](https://ucliveac-my.sharepoint.com/:f:/r/personal/oliver_batchelor_canterbury_ac_nz/Documents/tree_dataset2?csf=1&web=1&e=fSJeTj)">link</a>.
+You can download the data by following this <a href="https://ucliveac-my.sharepoint.com/:f:/r/personal/oliver_batchelor_canterbury_ac_nz/Documents/tree_dataset2?csf=1&web=1&e=fSJeTj">link</a>.
 
 ## 📜 Citation 
 Please use the following BibTeX entry to cite our work: <br>
