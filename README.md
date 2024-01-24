@@ -7,12 +7,14 @@ This repository offers a synthetic point cloud dataset with ground truth skeleto
 You can download the data by following this [link](https://ucliveac-my.sharepoint.com/:f:/r/personal/oliver_batchelor_canterbury_ac_nz/Documents/tree_dataset2?csf=1&web=1&e=fSJeTj).
 
 ### 🔗 Dependencies
-Our dataset includes destructive augmentations based on Perlin Noise. We offer a GPU-based implementation of Perlin Noise, available in this [repository](https://github.com/uc-vision/taichi_perlin).
-For data visualization, we recommend our previously developed library, accessible via this [link](https://github.com/uc-vision/synthetic-trees).
+Our dataset includes destructive augmentations based on Perlin Noise.<br>
+We offer a GPU-based implementation of Perlin Noise, available in this [repository](https://github.com/uc-vision/taichi_perlin).<br>
+For data visualization, we recommend our previously developed library, accessible via this [link](https://github.com/uc-vision/synthetic-trees).<br>
 An example augmentation can be done using `python augmentation.py`
 
 ## 📄 Citation 
 Please use the following BibTeX entry to cite our work: <br>
+
 ```
 Coming soon...
 
