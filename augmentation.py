@@ -46,6 +46,7 @@ class Dropout3D(Augmentation):
         cloud.xyz = cloud.xyz[mask]
         cloud.rgb = cloud.rgb[mask]
         cloud.medial_vector = cloud.medial_vector[mask]
+        cloud.class_l = cloud.class_l[mask]
 
         return cloud
 
@@ -81,11 +82,10 @@ def main():
 
     for (cld, skeleton), path in data:
         cld.to_device(torch.device("cuda"))
-
         cld = aug(cld)
         cld.to_device(torch.device("cpu"))
 
-    view_synthetic_data(data, args.line_width)
+        view_synthetic_data(data, args.line_width)
 
 
 if __name__ == "__main__":
