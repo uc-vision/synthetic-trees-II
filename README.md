@@ -10,7 +10,7 @@ This repository offers a synthetic point cloud dataset with ground truth skeleto
 You can download the data by following this [link](https://ucliveac-my.sharepoint.com/:f:/r/personal/oliver_batchelor_canterbury_ac_nz/Documents/tree_dataset2?csf=1&web=1&e=fSJeTj).
 
 ### 🔗 Dependencies
-Our dataset includes destructive augmentations based on Perlin Noise.<br>
+Our dataset uses subtractive augmentations based on Perlin Noise.<br>
 We offer a GPU-based implementation of Perlin Noise, available in this [repository](https://github.com/uc-vision/taichi_perlin).<br>
 For data visualization, we recommend our previously developed library, accessible via this [link](https://github.com/uc-vision/synthetic-trees).<br>
 An example augmentation can be done using `python augmentation.py`
@@ -23,18 +23,25 @@ Coming soon...
 
 ```
 ## 🖼️ Images
-Below are some images from the dataset:
+Below are some images of point clouds from the dataset:
 
-![Apple Tree](images/apple.png)
-![Cherry Tree](images/cherry.png)
-![Chinaberry Tree](images/chinaberry.png)
-![Dracaena Tree](images/dracaena.png)
-![Ginkgo Tree](images/ginkgo.png)
-![London Tree](images/london.png)
-![Maple Tree](images/maple.png)
-![Pine Tree](images/pine.png)
-![Spruce Tree](images/spruce.png)
-![Walnut Tree](images/walnut.png)
+<p float="left">
+  <img src="images/apple.png" width="100" />
+  <img src="images/cherry.png" width="100" /> 
+  <img src="images/chinaberry.png" width="100" />
+  <img src="images/dracaena.png" width="100" />
+</p>
+<p float="left">
+  <img src="images/ginkgo.png" width="100" />
+  <img src="images/london.png" width="100" />
+  <img src="images/maple.png" width="100" />
+  <img src="images/pine.png" width="100" />
+</p>
+<p float="left">
+  <img src="images/spruce.png" width="100" />
+  <img src="images/walnut.png" width="100" />
+  <!-- Add more images if needed -->
+</p>
 
 
 
