@@ -26,21 +26,20 @@ Coming soon...
 Below are some images of point clouds from the dataset:
 
 <p float="left">
-  <img src="images/apple.png" width="100" />
-  <img src="images/cherry.png" width="100" /> 
-  <img src="images/chinaberry.png" width="100" />
-  <img src="images/dracaena.png" width="100" />
+  <img src="images/apple.png" width="25%" />
+  <img src="images/cherry.png" width="25%" /> 
+  <img src="images/chinaberry.png" width="25%%" />
+  <img src="images/dracaena.png" width="25%" />
 </p>
 <p float="left">
-  <img src="images/ginkgo.png" width="100" />
-  <img src="images/london.png" width="100" />
-  <img src="images/maple.png" width="100" />
-  <img src="images/pine.png" width="100" />
+  <img src="images/ginkgo.png" width="25%" />
+  <img src="images/london.png" width="25%" />
+  <img src="images/maple.png" width="25%" />
+  <img src="images/pine.png" width="25%" />
 </p>
 <p float="left">
-  <img src="images/spruce.png" width="100" />
-  <img src="images/walnut.png" width="100" />
-  <!-- Add more images if needed -->
+  <img src="images/spruce.png" width="25%" />
+  <img src="images/walnut.png" width="25%" />
 </p>
 
 
