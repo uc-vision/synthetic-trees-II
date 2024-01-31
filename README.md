@@ -1,5 +1,8 @@
 # <center> 🌿🌳🌱 Synthetic-Trees-II 🌱🌳🌿 </center>
 
+
+
+
 ## 📖 Description
 This repository offers a synthetic point cloud dataset with ground truth skeletons of multiple species. 
 
@@ -19,8 +22,24 @@ Please use the following BibTeX entry to cite our work: <br>
 Coming soon...
 
 ```
+## 🖼️ Images
+Below are some images from the dataset:
+
+![Apple Tree](images/apple.png)
+![Cherry Tree](images/cherry.png)
+![Chinaberry Tree](images/chinaberry.png)
+![Dracaena Tree](images/dracaena.png)
+![Ginkgo Tree](images/ginkgo.png)
+![London Tree](images/london.png)
+![Maple Tree](images/maple.png)
+![Pine Tree](images/pine.png)
+![Spruce Tree](images/spruce.png)
+![Walnut Tree](images/walnut.png)
+
+
 
 ## 📩 Contact 
 Should you have any questions, comments or suggestions please use the following contact details:
 harry.dobbs@pg.canterbury.ac.nz
+
 
