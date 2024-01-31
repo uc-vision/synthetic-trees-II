@@ -1,10 +1,31 @@
 # <center> 🌿🌳🌱 Synthetic-Trees-II 🌱🌳🌿 </center>
 
-
-
-
 ## 📖 Description
 This repository offers a synthetic point cloud dataset with ground truth skeletons of multiple species. 
+
+## 🖼️ Images
+Below are some images of point clouds from the dataset:
+
+<div align="center">
+    <p float="left">
+      <img src="images/apple.png" width="24%" />
+      <img src="images/cherry.png" width="24%" /> 
+      <img src="images/chinaberry.png" width="24%" />
+      <img src="images/dracaena.png" width="24%" />
+    </p>
+    <p float="left">
+      <img src="images/ginkgo.png" width="24%" />
+      <img src="images/london.png" width="24%" />
+      <img src="images/maple.png" width="24%" />
+      <img src="images/pine.png" width="24%" />
+    </p>
+    <p float="left">
+      <img src="images/spruce.png" width="24%" />
+      <img src="images/walnut.png" width="24%" />
+      <!-- Add more images if needed -->
+    </p>
+</div>
+
 
 ## 💿 Download
 You can download the data by following this [link](https://ucliveac-my.sharepoint.com/:f:/r/personal/oliver_batchelor_canterbury_ac_nz/Documents/tree_dataset2?csf=1&web=1&e=fSJeTj).
@@ -22,25 +43,6 @@ Please use the following BibTeX entry to cite our work: <br>
 Coming soon...
 
 ```
-## 🖼️ Images
-Below are some images of point clouds from the dataset:
-
-<p float="left">
-  <img src="images/apple.png" width="25%" />
-  <img src="images/cherry.png" width="25%" /> 
-  <img src="images/chinaberry.png" width="25%%" />
-  <img src="images/dracaena.png" width="25%" />
-</p>
-<p float="left">
-  <img src="images/ginkgo.png" width="25%" />
-  <img src="images/london.png" width="25%" />
-  <img src="images/maple.png" width="25%" />
-  <img src="images/pine.png" width="25%" />
-</p>
-<p float="left">
-  <img src="images/spruce.png" width="25%" />
-  <img src="images/walnut.png" width="25%" />
-</p>
 
 
 
