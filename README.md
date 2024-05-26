@@ -40,8 +40,16 @@ An example augmentation can be done using `python augmentation.py`
 Please use the following BibTeX entry to cite our work: <br>
 
 ```
-Coming soon...
-
+@article{dobbs2024quantifying,
+  title={Quantifying robustness: 3D tree point cloud skeletonization with smart-tree in noisy domains},
+  author={Dobbs, Harry and Batchelor, Oliver and Peat, Casey and Atlas, James and Green, Richard},
+  journal={Pattern Analysis and Applications},
+  volume={27},
+  number={1},
+  pages={28},
+  year={2024},
+  publisher={Springer}
+}
 ```
 
 
