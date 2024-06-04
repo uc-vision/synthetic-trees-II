@@ -28,7 +28,7 @@ Below are some images of point clouds from the dataset:
 
 
 ## 💿 Download
-You can download the data by following this [link](https://ucliveac-my.sharepoint.com/:f:/r/personal/oliver_batchelor_canterbury_ac_nz/Documents/tree_dataset2?csf=1&web=1&e=fSJeTj).
+You can download the data by following this [link](https://ucliveac-my.sharepoint.com/:f:/g/personal/oliver_batchelor_canterbury_ac_nz/Ek9JJyDUZhVJpaamkDloUiUB4M8Hvx8gNrb9AIZbk_VyFA).
 
 ### 🔗 Dependencies
 Our dataset uses subtractive augmentations based on Perlin Noise.<br>
